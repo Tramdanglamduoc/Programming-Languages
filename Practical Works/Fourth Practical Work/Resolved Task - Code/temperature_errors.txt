@@ -1,0 +1,4 @@
+Error in line 'Liepaja,2024-06-01,invalid': Invalid temperature value: invalid
+Error in line 'Riga,2024-06-03,missing': Invalid temperature value: missing
+Error in line 'Riga,2024-06-05,concac': could not convert string to float: 'concac'
+Error in line 'Riga,2024-06-06,': could not convert string to float: ''

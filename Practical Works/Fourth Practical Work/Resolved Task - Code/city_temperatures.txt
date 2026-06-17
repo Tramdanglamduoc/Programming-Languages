@@ -1,0 +1,8 @@
+Riga,2024-06-01,23.5
+Liepaja,2024-06-01,invalid
+Daugavpils,2024-06-02,20.1
+Riga,2024-06-03,missing
+Ventspils,2024-06-02,18.0
+Riga,2024-06-04,25.0
+Riga,2024-06-05,concac
+Riga,2024-06-06,

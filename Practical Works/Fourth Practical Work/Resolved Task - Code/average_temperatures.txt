@@ -1,0 +1,3 @@
+Riga: 24.25
+Daugavpils: 20.10
+Ventspils: 18.00
