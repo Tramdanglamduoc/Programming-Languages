@@ -4,6 +4,7 @@ Course materials for **DIP208 – Programming Languages** at Riga Technical Univ
 
 ## Repository Structure
 ├── Lectures/          # Lecture slides and reference materials
+
 └── Practical Works/   # Lab assignments
 
 ## Course Topics
